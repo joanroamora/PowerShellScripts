@@ -7,7 +7,9 @@ $groupBmen= {'a','b','c','d','e','f','g','h','i','j','k','l','m'}
 $name=Read-Host "Whats your Name?"
 
 if($malefemale -eq "male"){
-    if($name)
+    if($name){
+        
+    }
 }
 
 else if ( $malefemale -eq "female"){
